@@ -35,7 +35,9 @@
 		"jpg"
 	],
 	"dependencies": {
+		"chrome-aws-lambda": "^1.19.0",
 		"file-url": "^3.0.0",
+		"puppeteer-core": "^1.19.0",
 		"tough-cookie": "^3.0.1"
 	},
 	"devDependencies": {
@@ -43,6 +45,7 @@
 		"ava": "^2.0.0",
 		"create-test-server": "^3.0.1",
 		"delay": "^4.1.0",
+		"iltorb": "^2.4.3",
 		"image-size": "^0.7.2",
 		"is-jpg": "^2.0.0",
 		"is-png": "^2.0.0",
